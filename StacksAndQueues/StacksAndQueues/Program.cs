@@ -17,13 +17,13 @@
             value.IsEmpty();
 
 
-            /*Console.WriteLine("-----------------Concept of Queue(enque&dequeue)---------------");
+            Console.WriteLine("-----------------Concept of Queue(enque&dequeue)---------------");
             StacksAndQueues.LinkedListQueue Queue = new StacksAndQueues.LinkedListQueue();
             Queue.Enqueue(56);
             Queue.Enqueue(30);
             Queue.Enqueue(70);
             Queue.DisPlay();
-            Queue.Dequeue();*/
+           /* Queue.Dequeue();*/
 
 
 
