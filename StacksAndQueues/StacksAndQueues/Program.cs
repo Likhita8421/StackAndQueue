@@ -21,9 +21,9 @@
             StacksAndQueues.LinkedListQueue Queue = new StacksAndQueues.LinkedListQueue();
             Queue.Enqueue(56);
             Queue.Enqueue(30);
-            Queue.Enqueue(70);
+            Queue.Enqueue(70);  
             Queue.DisPlay();
-           /* Queue.Dequeue();*/
+            Queue.Dequeue();
 
 
 
