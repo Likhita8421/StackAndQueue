@@ -12,9 +12,9 @@
             value.push(30);
             value.push(56);
             value.DisPlay();
-            value.Peek();
-             value.Pop();
-            value.IsEmpty();
+            /*value.Peek();
+            value.Pop();
+            value.IsEmpty();*/
 
 
             /*Console.WriteLine("-----------------Concept of Queue(enque&dequeue)---------------");

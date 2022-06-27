@@ -36,7 +36,7 @@ namespace StacksAndQueues
                 temp = temp.next;
             }
         }
-        /*public void Peek()
+        public void Peek()
         {
             if (this.top == null)
             {
@@ -62,6 +62,6 @@ namespace StacksAndQueues
                 Peek();
                 Pop();
             }
-        }*/
+        }
     }
 }
